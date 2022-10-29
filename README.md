@@ -1,9 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenzyyzd&count_private=true)
 #### My Project:
-- CuprumTurbo Adjustment
+- CuprumTurbo Scheduler
 - CuToolbox APP
+- WannaRecite APP
 #### The programming language I am good at：
-- Java(Android App)
+- Java/Kotlin(Android App)
 - C
 - Linux Shell
 - Visual Basic
