@@ -4,13 +4,11 @@
 - CuToolbox APP
 - WannaRecite APP
 #### The programming language I am good at：
-- Java/Kotlin(Android App)
+- Kotlin
+- Java
 - C
+- Python
 - Linux Shell
-- Visual Basic
 - JavaScript
-#### My Accounts:
-- chenzyadb -> coolapk,bilibili,gitee
-- chenzyyzd -> github
 #### E-Mail:
 - chenzyadb@qq.com
