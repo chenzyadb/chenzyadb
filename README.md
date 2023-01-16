@@ -1,5 +1,5 @@
 ![GitHub stats](https://github-readme-stats-pi-sepia.vercel.app/api?username=chenzyyzd&count_private=true)
-#### My Project:
+#### My Projects:
 [![Repo Card](https://github-readme-stats-pi-sepia.vercel.app/api/pin/?username=chenzyyzd&repo=CuprumTurbo-Scheduler)](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)
 [![Repo Card](https://github-readme-stats-pi-sepia.vercel.app/api/pin/?username=chenzyyzd&repo=WannaRecite)](https://github.com/chenzyyzd/WannaRecite)
 #### My Top Languages：
