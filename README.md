@@ -6,6 +6,6 @@
 [![Repo Card](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/pin/?username=chenzyyzd&repo=CuprumTurbo-Scheduler)](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)
 [![Repo Card](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/pin/?username=chenzyyzd&repo=WannaRecite)](https://github.com/chenzyyzd/WannaRecite)  
 #### My Top Languages：
-[![Top Langs](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/top-langs/?username=chenzyyzd&layout=compact)](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)  
+![Top Langs](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/top-langs/?username=chenzyyzd&layout=compact)
 #### My E-Mail:
 - chenzyadb@qq.com
