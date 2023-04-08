@@ -1,11 +1,11 @@
-## Chenzyadb's GitHub Homepage
+## Chenzyyzd's GitHub Homepage
 ![Elaina](https://github.com/chenzyyzd/chenzyyzd/blob/main/images/elaina.gif)  
 #### My Stats:
-![GitHub stats](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api?username=chenzyyzd&count_private=true)  
+![GitHub stats](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api?username=chenzyyzd)  
 #### My Projects:
 [![Repo Card](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/pin/?username=chenzyyzd&repo=CuprumTurbo-Scheduler)](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)
-[![Repo Card](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/pin/?username=chenzyyzd&repo=WannaRecite)](https://github.com/chenzyyzd/WannaRecite)  
+[![Repo Card](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/pin/?username=chenzyyzd&repo=cuJson)](https://github.com/chenzyyzd/cuJson)  
 #### My Top Languages：
-![Top Langs](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/top-langs/?username=chenzyyzd&layout=compact)
+![Top Langs](https://github-readme-stats-df8hhyc13-chenzyyzd.vercel.app/api/top-langs/?username=chenzyyzd)
 #### My E-Mail:
 - chenzyadb@qq.com
