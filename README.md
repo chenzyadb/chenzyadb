@@ -8,6 +8,6 @@
 ## My Top Languages：
 - Currently learning languages C++, C, Kotlin, Java, Python.    
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzyyzd)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzyyzd&layout=compact)  
 ## My E-Mail:
 - chenzyadb@qq.com  
