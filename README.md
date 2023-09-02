@@ -1,13 +1,13 @@
-# Chenzyyzd's GitHub Homepage  
-![Elaina](https://github.com/chenzyyzd/chenzyyzd/blob/main/images/elaina.gif)  
+# Chenzyadb's GitHub Homepage  
+![Elaina](https://github.com/chenzyadb/chenzyadb/blob/main/images/elaina.gif)  
 ## My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chenzyyzd)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chenzyadb)  
 ## My Projects:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chenzyyzd&repo=CuprumTurbo-Scheduler)](https://github.com/chenzyyzd/CuprumTurbo-Scheduler)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chenzyyzd&repo=CuPerfMonitor)](https://github.com/chenzyyzd/CuPerfMonitor)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chenzyadb&repo=CuprumTurbo-Scheduler)](https://github.com/chenzyadb/CuprumTurbo-Scheduler)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chenzyadb&repo=CuPerfMonitor)](https://github.com/chenzyadb/CuPerfMonitor)  
 ## My Top Languages：
 - Currently learning languages C++, C, Kotlin, Java, Python.    
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzyyzd&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzyadb&layout=compact)  
 ## My E-Mail:
 - chenzyadb@qq.com  
